@@ -1,4 +1,4 @@
-ipykernel
+python -m pip install -r requirements.txtipykernel
 pandas
 matplotlib
 requests
