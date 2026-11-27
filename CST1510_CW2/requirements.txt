@@ -1,0 +1,8 @@
+python -m pip install -r requirements.txtipykernel
+pandas
+matplotlib
+requests
+bcrypt
+streamlit>=1.28
+openai>=1.0
+pytest
